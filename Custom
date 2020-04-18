@@ -1,0 +1,5 @@
+#!name=Custom
+#!desc=在当前托管规则前面加入自定义规则
+
+[Rule]
+PROCESS-NAME,/Applications/Thunder.app/Contents/XPCServices/DownloadService.xpc/Contents/MacOS/DownloadService,DIRECT
