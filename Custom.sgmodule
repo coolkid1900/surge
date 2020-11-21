@@ -2,5 +2,4 @@
 #!desc=在当前托管规则前面加入自定义规则
 
 [Rule]
-DOMAIN-SUFFIX,3p3942.cn,Proxy
 DOMAIN-SUFFIX,torrentmac.net,DIRECT
