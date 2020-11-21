@@ -3,5 +3,5 @@
 
 [Rule]
 PROCESS-NAME,/Applications/Thunder.app/Contents/XPCServices/DownloadService.xpc/Contents/MacOS/DownloadService,DIRECT
-DOMAIN-SUFFIX,video.3p3942.cn,Proxy
+DOMAIN-SUFFIX,3p3942.cn,Proxy
 DOMAIN-SUFFIX,torrentmac.net,DIRECT
