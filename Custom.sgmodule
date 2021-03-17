@@ -1,5 +1,7 @@
 #!name=Custom
 #!desc=在当前托管规则前面加入自定义规则
 
+[Proxy]
+tfo=false
 [Rule]
 DOMAIN-SUFFIX,torrentmac.net,DIRECT
