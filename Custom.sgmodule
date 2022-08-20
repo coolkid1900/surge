@@ -6,4 +6,4 @@ DOMAIN-SUFFIX,torrentmac.net,DIRECT
 DOMAIN,www.sublimetext.com,REJECT
 DOMAIN,sublimetext.com,REJECT
 DOMAIN,license.sublimehq.com,REJECT
-DOMAIN-KEYWORD,mypikpak,PROXY
+DOMAIN-KEYWORD,mypikpak,Proxy
