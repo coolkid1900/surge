@@ -3,6 +3,7 @@
 
 [Rule]
 DOMAIN-SUFFIX,torrentmac.net,DIRECT
+DOMAIN-SUFFIX,mypikpak.com,PROXY
 DOMAIN,www.sublimetext.com,REJECT
 DOMAIN,sublimetext.com,REJECT
 DOMAIN,license.sublimehq.com,REJECT
