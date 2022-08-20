@@ -7,4 +7,3 @@ DOMAIN-SUFFIX,mypikpak.com,PROXY
 DOMAIN,www.sublimetext.com,REJECT
 DOMAIN,sublimetext.com,REJECT
 DOMAIN,license.sublimehq.com,REJECT
-IP-CIDR,8.216.0.0/13,PROXY
