@@ -1,5 +1,6 @@
 #!name=Custom
 #!desc=在当前托管规则前面加入自定义规则
+#!system=mac
 
 [General]
 dns-server = 223.5.5.5
