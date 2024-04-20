@@ -1,6 +1,9 @@
 #!name=Custom
 #!desc=在当前托管规则前面加入自定义规则
 
+[General]
+dns-server = 223.5.5.5
+
 [Rule]
 DOMAIN-SUFFIX,torrentmac.net,DIRECT
 DOMAIN,www.sublimetext.com,REJECT
