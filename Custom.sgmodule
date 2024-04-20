@@ -5,7 +5,6 @@
 dns-server = 223.5.5.5
 
 [Rule]
-DOMAIN-SUFFIX,torrentmac.net,DIRECT
 DOMAIN,www.sublimetext.com,REJECT
 DOMAIN,sublimetext.com,REJECT
 DOMAIN,license.sublimehq.com,REJECT
