@@ -12,9 +12,3 @@ router.asus.com = server:syslib
 hotspot.cslwifi.com = server:syslib
 amplifi.lan = server:syslib
 *.lan = server:syslib
-
-[Rule]
-DOMAIN,www.sublimetext.com,REJECT
-DOMAIN,sublimetext.com,REJECT
-DOMAIN,license.sublimehq.com,REJECT
-DOMAIN-KEYWORD,mypikpak,Proxy
