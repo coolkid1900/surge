@@ -4,11 +4,3 @@
 
 [General]
 dns-server = 223.5.5.5
-
-[Host]
-routerlogin.net = server:syslib
-_hotspot_.m2m = server:syslib
-router.asus.com = server:syslib
-hotspot.cslwifi.com = server:syslib
-amplifi.lan = server:syslib
-*.lan = server:syslib
