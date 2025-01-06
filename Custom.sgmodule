@@ -10,4 +10,9 @@ dns-server = 223.5.5.5
 client-source-address = -192.168.0.102,-192.168.0.103,-192.168.0.114,0.0.0.0/0
 [Rule]
 DOMAIN-SUFFIX,keeflys.com,Proxies
+DOMAIN-SUFFIX,smoot.apple.com,Proxies
 DOMAIN,apple-relay.apple.com,Proxies
+DOMAIN,apple-relay.cloudflare.com,Proxies
+DOMAIN,apple-relay.fastly-edge.com,Proxies
+DOMAIN,cp4.cloudflare.com,Proxies
+DOMAIN,guzzoni.apple.com,Proxies
