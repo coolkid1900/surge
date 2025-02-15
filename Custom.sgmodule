@@ -4,9 +4,7 @@
 #!category=Custom
 
 [General]
-dns-server = 223.5.5.5,2001:4860:4860::8888, 2001:4860:4860::8844
-ipv6 = true
-tun-ipv6 = true
+dns-server = 223.5.5.5
 
 [MITM]
 client-source-address = -192.168.0.102,-192.168.0.103,-192.168.0.114,0.0.0.0/0
