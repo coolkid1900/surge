@@ -12,3 +12,4 @@ client-source-address = -192.168.0.102,-192.168.0.103,-192.168.0.114,0.0.0.0/0
 DOMAIN,cdn.usefathom.com,US
 DOMAIN-SUFFIX,anthropic.com,US
 DOMAIN-SUFFIX,claude.ai,US
+DOMAIN-SUFFIX,claude.com,US
