@@ -13,3 +13,5 @@ DOMAIN,cdn.usefathom.com,US
 DOMAIN-SUFFIX,anthropic.com,US
 DOMAIN-SUFFIX,claude.ai,US
 DOMAIN-SUFFIX,claude.com,US
+PROCESS-NAME,Claude,US
+PROCESS-NAME,Claude Helper,US
